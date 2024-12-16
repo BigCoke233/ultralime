@@ -1,4 +1,4 @@
-baseURL = 'https://ultrali.me/'
+baseURL = '/'
 languageCode = 'zh-cn'
 title = 'ultralime'
 theme = "re-terminal"
