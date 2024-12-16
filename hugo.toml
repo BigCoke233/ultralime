@@ -18,9 +18,9 @@ theme = "re-terminal"
 [menu]
     [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "关于"
     url = "/about"
     [[menu.main]]
-    identifier = "showcase"
-    name = "Showcase"
-    url = "/showcase"
+    identifier = "blog"
+    name = "极客死亡计划"
+    url = "https://www.geedea.pro"
