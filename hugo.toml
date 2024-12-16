@@ -1,0 +1,26 @@
+baseURL = 'https://ultrali.me/'
+languageCode = 'zh-cn'
+title = 'ultralime'
+theme = "re-terminal"
+
+[params]
+    themeColor = "green"
+    title = "ultralime"
+    subtitle = ""
+    owner = ""
+    keywords = ""
+    copyright = "&copy; 2024 Eltrac, All Rights Reserved"
+
+    [params.Logo]
+        logoText = "ultra-lime"
+        logoHomeLink = "/"
+
+[menu]
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    [[menu.main]]
+    identifier = "showcase"
+    name = "Showcase"
+    url = "/showcase"
