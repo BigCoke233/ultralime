@@ -2,6 +2,8 @@ baseURL = '/'
 languageCode = 'zh-cn'
 title = 'ultralime'
 theme = "re-terminal"
+timeZone = "Asia/Shanghai"
+hasCJKLanguage = true
 
 [params]
     themeColor = "green"
